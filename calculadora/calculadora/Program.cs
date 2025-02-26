@@ -12,10 +12,10 @@
 
         int operacao = int.Parse(Console.ReadLine());
 
-        Console.WriteLine("Digite o primeiro numero: ")
+        Console.WriteLine("Digite o primeiro numero: ");
         int num1 = int.Parse(Console.ReadLine());
 
-        Console.WriteLine("Digite o segundo numero: ")
+        Console.WriteLine("Digite o segundo numero: ");
         int num2 = int.Parse(Console.ReadLine());
     }
 }
