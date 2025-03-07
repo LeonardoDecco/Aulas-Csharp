@@ -12,5 +12,6 @@
             Console.WriteLine(produto2.GetDetailProduct());
             Console.WriteLine(produto3.GetDetailProduct());
         }
+
     }
 }
